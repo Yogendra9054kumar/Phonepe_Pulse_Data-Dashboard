@@ -61,7 +61,11 @@ The dataset is sourced from PhonePe Pulse and includes:
 * Map-based Transaction Data
 
 ---
+## Project Dashboard
 
+  🔗Linkedin : https://www.linkedin.com/posts/yogendra-kumar-5a4a16298_innovexis-powerbi-dataanalytics-share-7442634235376553984-m2S0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEgNtMwBtWKNOyDa2vSch0rC2u8OJ9XBgug
+
+---
 ## 👤 Author
 
 Yogendra Kumar
